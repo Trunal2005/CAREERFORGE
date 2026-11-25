@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T06:13:05.256Z",
+  "last_updated": "2026-11-25T17:31:10.515Z",
   "filter_criteria": {
     "repository": "Trunal2005/CAREERFORGE",
     "required_labels": [
@@ -11,7 +11,7 @@
       ]
     ]
   },
-  "total_merged_prs": 206,
+  "total_merged_prs": 219,
   "contributors": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "username": "divyanshAgarwal123",
       "avatar_url": "https://github.com/divyanshAgarwal123.png",
       "profile_url": "https://github.com/divyanshAgarwal123",
-      "merged_prs": 13
+      "merged_prs": 24
     },
     {
       "rank": 3,
@@ -40,10 +40,30 @@
       "avatar_url": "https://github.com/Sarbajit-Sengupta.png",
       "profile_url": "https://github.com/Sarbajit-Sengupta",
       "merged_prs": 6
+    },
+    {
+      "rank": 5,
+      "username": "sumittiwari1302",
+      "avatar_url": "https://github.com/sumittiwari1302.png",
+      "profile_url": "https://github.com/sumittiwari1302",
+      "merged_prs": 2
     }
   ],
   "_cache": {
     "processed_pr_numbers": [
+      3062,
+      3060,
+      3059,
+      3058,
+      3020,
+      3028,
+      3031,
+      3019,
+      3018,
+      2944,
+      2939,
+      2919,
+      2918,
       2915,
       2913,
       2912,
@@ -251,6 +271,6 @@
       126,
       125
     ],
-    "cached_at": "2026-11-25T06:13:05.256Z"
+    "cached_at": "2026-11-25T17:31:10.516Z"
   }
 }
